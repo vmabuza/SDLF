@@ -1,0 +1,33 @@
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\bin\Debug\DLF.exe.config
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.DLF.resources
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\bin\Debug\DLF.exe
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\bin\Debug\DLF.pdb
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.exe
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.pdb
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\student\documents\visual studio 2015\Projects\DLF\DLF\bin\Debug\AForge.Video.dll
+C:\Users\Student\documents\visual studio 2015\Projects\DLF\DLF\obj\Debug\DLF.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DLF\DLF\obj\Debug\DLF.HomePge.resources
+F:\DLF\DLF\bin\Debug\DLF.exe.config
+F:\DLF\DLF\obj\Debug\DLF.csproj.ResolveComReference.cache
+F:\DLF\DLF\obj\Debug\DLF.exe
+F:\DLF\DLF\obj\Debug\DLF.pdb
+F:\DLF\DLF\obj\Debug\DLF.csprojResolveAssemblyReference.cache
+F:\DLF\DLF\obj\Debug\DLF.DLF.resources
+F:\DLF\DLF\obj\Debug\DLF.Properties.Resources.resources
+F:\DLF\DLF\obj\Debug\DLF.csproj.GenerateResource.Cache
+F:\DLF\DLF\bin\Debug\DLF.exe
+F:\DLF\DLF\bin\Debug\DLF.pdb
+C:\Users\DLF\DLF\bin\Debug\DLF.exe.config
+C:\Users\DLF\DLF\obj\Debug\DLF.csproj.ResolveComReference.cache
+C:\Users\DLF\DLF\obj\Debug\DLF.exe
+C:\Users\DLF\DLF\obj\Debug\DLF.pdb
+C:\Users\DLF\DLF\bin\Debug\DLF.exe
+C:\Users\DLF\DLF\bin\Debug\DLF.pdb
+C:\Users\DLF\DLF\obj\Debug\DLF.csprojResolveAssemblyReference.cache
+C:\Users\DLF\DLF\obj\Debug\DLF.DLF.resources
+C:\Users\DLF\DLF\obj\Debug\DLF.Properties.Resources.resources
+C:\Users\DLF\DLF\obj\Debug\DLF.csproj.GenerateResource.Cache
